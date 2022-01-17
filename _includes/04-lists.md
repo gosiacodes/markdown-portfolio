@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+# I :heart:
+
+* My Family 👨‍👩‍👧‍👦
+* Watch Netflix 🎥
+* Programming 💻
+* Photography 📸
+* Cycling 🚴
+* Walking 🚶‍♀️
+* Music 🎵
